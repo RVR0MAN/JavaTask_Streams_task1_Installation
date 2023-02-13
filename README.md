@@ -1,6 +1,6 @@
 # Streams_task1_Installation
 
-##Задача 1: Установка
+## Задача 1: Установка
 
 В папке Games созданы директории: src, res, savegames, temp.
 В каталоге src созданы две директории: main, test.
