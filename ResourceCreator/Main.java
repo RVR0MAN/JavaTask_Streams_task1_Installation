@@ -16,7 +16,7 @@ class Main {
 
     public static void main(String[] args) throws UnknownHostException {
 
-        // https://youtu.be/Prpm-13Q-aw
+        
         List<String> allResources = new LinkedList();
         allResources.add(userDirectory + "/Games/");
         allResources.add(userDirectory + "/Games/src");
